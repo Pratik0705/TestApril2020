@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is C898-E164
+
+ Directory of D:\selenium_Class\Git_Practice\My project
+
+05/04/2020  12:01 PM    <DIR>          .
+05/04/2020  12:01 PM    <DIR>          ..
+05/04/2020  12:01 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  111,004,573,696 bytes free
